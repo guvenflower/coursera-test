@@ -1,2 +1,4 @@
 # coursera-test
-new repository
+merhaba!
+
+Ben Güven, bir şeyler yapmaya çaışıyorum. 
